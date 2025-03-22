@@ -1,4 +1,4 @@
-# Weather Forecasting Project
+# Weather Forecasting-TimeSeries
 
 ## Overview
 This project implements various time series forecasting models to predict daily temperature in Delhi based on historical climate data. The models include traditional statistical approaches (ARIMA, SARIMA) as well as deep learning methods (RNN, LSTM, Bidirectional LSTM).
